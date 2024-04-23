@@ -1,0 +1,222 @@
+.contenedor {
+    display: flex;
+    margin-top: 12.5px;
+    width: 400px;
+    height: 400px;
+    justify-content: center;
+}
+
+.imagen2 {
+    display: flex;
+    margin-top: 100px;
+    width: 400px;
+    height: 400px;
+    justify-content: center;
+}
+
+.imagen4 {
+    display: flex;
+    margin-top: 12.5px;
+    width: 400px;
+    height: 400px;
+    justify-content: center;
+}
+
+
+.opciones1 {
+    display: flex;
+    justify-content: center;
+}
+
+.opciones2 {
+    display: flex;
+    justify-content: center;
+}
+
+.contenedor1 {
+    display: flex;
+    margin-top: 100px;
+    width: 400px;
+    height: 400px;
+    justify-content: center;
+}
+
+.instal {
+
+    width: 400px;
+    height: 400px;
+    margin-right: 12.5px;
+
+}
+
+.pago {
+
+    width: 400px;
+    height: 400px;
+    margin-left: 12.5px;
+
+}
+
+.conocer {
+
+    width: 400px;
+    height: 400px;
+    margin-right: 12.5px;
+}
+
+.perso {
+
+    width: 400px;
+    height: 400px;
+    margin-left: 12.5px;
+
+}
+
+
+.contenedor {
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0px 15px 25px rgba(0, 0, 0, 0.8);
+}
+
+.contenedor img {
+    transition: transform 0.3s ease;
+}
+
+.contenedor:hover img {
+    transform: scale(1.1);
+}
+
+.thumb_title {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    background-color: rgba(0, 128, 0, 0.5);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    font-family: 'Comic Sans MS', cursive;
+}
+
+.contenedor:hover .thumb_title {
+    bottom: 0;
+    opacity: 1;
+}
+
+.imagen2 {
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0px 15px 25px rgba(0, 0, 0, 0.8);
+}
+
+.imagen2 img {
+    transition: transform 0.3s ease;
+}
+
+.imagen2:hover img {
+    transform: scale(1.1);
+}
+
+.texto2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    background-color: rgba(255, 0, 0, 0.5);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    font-family: 'Comic Sans MS', cursive;
+}
+
+.imagen2:hover .texto2 {
+    bottom: 0;
+    opacity: 1;
+}
+
+.contenedor1 {
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0px 15px 25px rgba(0, 0, 0, 0.8);
+}
+
+.contenedor1 img {
+    transition: transform 0.3s ease;
+}
+
+.contenedor1:hover img {
+    transform: scale(1.1);
+}
+
+.texto3 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    background-color: rgba(216, 43, 255, 0.69);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    font-family: 'Comic Sans MS', cursive;
+}
+
+.contenedor1:hover .texto3 {
+    bottom: 0;
+    opacity: 1;
+}
+
+.imagen4 {
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0px 15px 25px rgba(0, 0, 0, 0.8);
+}
+
+.imagen4 img {
+    transition: transform 0.3s ease;
+}
+
+.imagen4:hover img {
+    transform: scale(1.1);
+}
+
+.texto4 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    background-color: rgba(255, 149, 43, 0.69);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    font-family: 'Comic Sans MS', cursive;
+}
+
+.imagen4:hover .texto4 {
+    bottom: 0;
+    opacity: 1;
+}
+
+.baner {
+    box-shadow: 0px 15px 25px rgba(0, 0, 0, 0.8);
+}

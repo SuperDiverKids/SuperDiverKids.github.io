@@ -1,0 +1,135 @@
+.cuadros1{
+
+    display: flex;
+    justify-content: center;
+    margin-bottom: 25px;
+}
+
+.cuadros2{
+
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.cuadros3{
+
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.cuadros4{
+
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.cuadro1 {
+    justify-content: center;
+    background-color: rgb(239, 85, 162);
+    display: flex;
+    flex-direction: column;
+    margin-right: 25px;
+    width: 500px;
+    box-shadow: 0px 15px 25px rgba(0, 0, 0, 0.8);
+
+}
+
+.cuadro2 {
+    justify-content: center;
+    background-color: rgb(255, 230, 0);
+    display: flex;
+    flex-direction: column;
+    margin-left: 25px;
+    width: 500px;
+    box-shadow: 0px 15px 25px rgba(0, 0, 0, 0.8);
+
+}
+
+.cuadro3 {
+    justify-content: center;
+    background-color: rgb(255, 140, 0);
+    display: flex;
+    flex-direction: column;
+    margin-right: 25px;
+    width: 500px;
+    box-shadow: 0px 15px 25px rgba(0, 0, 0, 0.8);
+
+}
+
+.cuadro4 {
+    justify-content: center;
+    background-color: rgb(172, 218, 35);
+    display: flex;
+    flex-direction: column;
+    margin-left: 25px;
+    margin-right: 25px;
+    width: 500px;
+    box-shadow: 0px 15px 25px rgba(0, 0, 0, 0.8);
+
+}
+
+.cuadro5 {
+    justify-content: center;
+    background-color: rgb(36, 182, 58);
+    display: flex;
+    flex-direction: column;
+    margin-left: 25px;
+    width: 500px;
+    box-shadow: 0px 15px 25px rgba(0, 0, 0, 0.8);
+
+}
+
+.cuadro6 {
+    justify-content: center;
+    background-color: rgb(12, 144, 164);
+    display: flex;
+    flex-direction: column;
+    margin-right: 25px;
+    width: 500px;
+    box-shadow: 0px 15px 25px rgba(0, 0, 0, 0.8);
+
+}
+
+.cuadro7 {
+    justify-content: center;
+    background-color: rgb(145, 35, 218);
+    display: flex;
+    flex-direction: column;
+    margin-left: 25px;
+    width: 500px;
+    box-shadow: 0px 15px 25px rgba(0, 0, 0, 0.8);
+
+}
+
+.cuadro8 {
+    justify-content: center;
+    background-color: rgb(226, 95, 95);
+    display: flex;
+    flex-direction: column;
+    margin-right: 140px;
+    margin-left: 140px;
+    box-shadow: 0px 15px 25px rgba(0, 0, 0, 0.8);
+
+}
+
+.titulo3, .titulo2, .titulo1, .titulo4, .titulo5, .titulo6, .titulo7, .titulo8 {
+    text-align: center;
+    color: white;
+    font-family: "Comic Sans MS", cursive;
+}
+
+.texto3, .texto2, .texto1, .texto4, .texto5, .texto6, .texto7, .texto8 {
+    
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align: justify;
+    color: white;
+    font-family: "Optical", sans-serif;
+
+}

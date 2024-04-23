@@ -1,0 +1,115 @@
+.titulo3, .titulo2, .titulo1, .titulo4, .titulo6, .titulo7, .titulo8 {
+    text-align: center;
+    color: white;
+    margin-top: 0;
+    font-family: "Comic Sans MS", cursive;
+}
+
+.titulo5 {
+    text-align: center;
+    color: white;
+    margin-top: -50px;
+    font-family: "Comic Sans MS", cursive;
+}
+
+.texto3, .texto2, .texto1, .texto4, .texto6, .texto7, .texto8 {
+    
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align: justify;
+    color: white;
+    font-family: "Optical", sans-serif;
+
+}
+
+.texto5 {
+
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 10px;
+    text-align: justify;
+    color: white;
+    font-family: "Optical", sans-serif;
+}
+
+.contenedor1{
+
+    display: flex;
+    justify-content: center;
+    margin-bottom: 25px;
+}
+
+.contenedor2{
+
+    display: flex;
+    justify-content: center;
+    margin-bottom: 25px;
+}
+
+.contenedor3{
+
+    display: flex;
+    justify-content: center;
+    margin-bottom: 25px;
+}
+
+.imagen1 {
+    justify-content: center;
+    background-color: rgb(12, 144, 164);
+    display: flex;
+    flex-direction: column;
+    margin-top: 25px;
+    margin-right: 25px;
+    width: 1000px;
+    height: 1350px;
+    box-shadow: 0px 15px 25px rgba(0, 0, 0, 0.8);
+}
+
+.imagen2 {
+    justify-content: center;
+    background-color: rgb(145, 35, 218);
+    display: flex;
+    flex-direction: column;
+    margin-top: 25px;
+    margin-right: 25px;
+    width: 500px;
+    height: 800px;
+    box-shadow: 0px 15px 25px rgba(0, 0, 0, 0.8);
+}
+
+
+.imagen3 {
+    justify-content: center;
+    background-color: rgb(226, 95, 95);
+    display: flex;
+    flex-direction: column;
+    margin-top: 25px;
+    margin-right: 25px;
+    width: 500px;
+    height: 800px;
+    box-shadow: 0px 15px 25px rgba(0, 0, 0, 0.8);
+}
+
+.imagen4 {
+    justify-content: center;
+    background-color: rgb(172, 218, 35);
+    display: flex;
+    flex-direction: column;
+    margin-top: 25px;
+    margin-right: 25px;
+    width: 500px;
+    height: 1000px;
+    box-shadow: 0px 15px 25px rgba(0, 0, 0, 0.8);
+}
+
+.imagen5{
+    justify-content: center;
+    background-color: rgb(255, 230, 0);
+    display: flex;
+    flex-direction: column;
+    margin-top: 25px;
+    margin-right: 25px;
+    width: 500px;
+    height: 1000px;
+    box-shadow: 0px 15px 25px rgba(0, 0, 0, 0.8);
+}
